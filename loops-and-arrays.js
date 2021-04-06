@@ -8,6 +8,8 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 for (let i = 0; i < names.length; i++){
     console.log(names[i] + "je");
 }
+console.log("\n");
+console.log("\n");
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
@@ -22,6 +24,7 @@ for (let i = 0; i < names.length; i++){
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!
 // ==========================================
 console.log("\n");
+console.log("\n");
 
 const numbers = [2, 4, 5, 29, 38];
 for (let i =0; i < numbers.length; i++){
@@ -34,7 +37,7 @@ for (let i =0; i < numbers.length; i++){
 // Na jouw script zie je de aangepaste waardes:
 // console.log(numbers) geeft: [ 6, 12, 15, 87, 114 ];
 console.log("\n");
-
+console.log("\n");
 // ==========================================
 // Opdracht 3
 // Schrijf een script dat voor de maat van ieder vierkant in onderstaande array het volume uitrekent.
